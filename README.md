@@ -53,5 +53,4 @@ g++ main.cpp student.cpp -std=c++17 -o student_app
 Step 2 — Run
 ./student_app
 
-Admin Password                                                                                                                  
-admin123
+Admin Password - admin123                                                                                                            
