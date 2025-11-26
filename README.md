@@ -46,7 +46,7 @@ Admin login with password (admin123)
 
 
 
-🛠 How to Compile & Run//
+🛠 How to Compile & Run                                                                                                                                  
 Step 1 — Compile
 g++ main.cpp student.cpp -std=c++17 -o student_app
 
